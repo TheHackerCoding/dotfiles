@@ -1,0 +1,6 @@
+{
+  "rpc.largeImage": "\"tweaking\" a {lang} file",
+  "rpc.idleText": "💤",
+  "rust-analyzer.server.path": "\/home\/thehackercoding\/.local\/bin\/rust-analyzer",
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/13.0.0/clangd_13.0.0/bin/clangd"
+}
